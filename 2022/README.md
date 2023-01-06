@@ -17,3 +17,7 @@
 - Day 4
   - Part 1: 453
   - Part 2: 919
+
+- Day 5
+  - Part 1: GRTSWNJHH
+  - Part 2: QLFQDBBHM
