@@ -21,3 +21,7 @@
 - Day 5
   - Part 1: GRTSWNJHH
   - Part 2: QLFQDBBHM
+
+- Day 6
+  - Part 1: 1876
+  - Part 2: 2202
