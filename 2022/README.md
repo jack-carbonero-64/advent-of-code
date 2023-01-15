@@ -37,3 +37,7 @@
 - Day 9
   - Part 1: 6271
   - Part 2: 2458
+
+- Day 10
+  - Part 1: 14620
+  - Part 2: BJFRHRFU
