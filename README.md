@@ -6,4 +6,4 @@ This repository contains my solutions for the Advent Of Code problems.
 
 ### 2022 edition
 
-- Python: 10 / 25
+- Python: 11 / 25

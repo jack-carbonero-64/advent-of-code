@@ -41,3 +41,7 @@
 - Day 10
   - Part 1: 14620
   - Part 2: BJFRHRFU
+
+- Day 11
+  - Part 1: 108240
+  - Part 2: 25712998901
