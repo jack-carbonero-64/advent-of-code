@@ -10,4 +10,4 @@ This repository contains my solutions for the Advent Of Code problems.
 
 ### 2024 edition
 
-- Python: 5 / 25
+- Python: 6 / 25
