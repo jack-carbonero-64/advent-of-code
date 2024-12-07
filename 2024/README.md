@@ -18,6 +18,10 @@
   - Part 1: 2583
   - Part 2: 1978
 
+- Day 5
+  - Part 1: 4790
+  - Part 2: 6319
+
 - Day 6
   - Part 1: 4977
   - Part 2: 1729
